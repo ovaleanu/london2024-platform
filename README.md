@@ -3,6 +3,10 @@
 Deploy Amazon EKS with addons configured via ArgoCD.
 ArgoCD is used to deploy Kratix, Backstage and Crossplane with AWS Providers configured with IRSA.
 
+Backstage WIP
+
+
+
 ### Deploy EKS Cluster
 ```shell
 terraform init
