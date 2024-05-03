@@ -5,7 +5,7 @@ ArgoCD is used to deploy Kratix, Backstage and Crossplane with AWS Providers con
 
 Backstage WIP
 
-
+<img src="https://github.com/ovaleanu/london2024-platform/blob/main/static/argo.png" width=100%>
 
 ### Deploy EKS Cluster
 ```shell
